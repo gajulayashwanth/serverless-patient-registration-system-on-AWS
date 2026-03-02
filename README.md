@@ -116,7 +116,7 @@ const API_BASE_URL = "YOUR_API_GATEWAY_STAGE_URL";
 
 ## 👨‍💻 Author
 
-Your Name
+yashwanth GITHUB:https://github.com/gajulayashwanth
 
 ---
 
